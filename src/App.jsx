@@ -4,7 +4,7 @@ import WeatherSearch from './components/WeatherSearch';
 import WeatherDisplay from './components/WeatherDisplay';
 import './styles.css';
 
-const API_KEY = '37b173b03fba250ec24c5aae93f34333';
+const API_KEY = 'TU_CLAVE_DE_API';
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 const App = () => {
